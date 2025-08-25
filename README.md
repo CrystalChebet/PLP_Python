@@ -1,2 +1,2 @@
 # PLP_Python
-This repository hold all my submissions for the Python module on PLP
+This repository holds all my submissions for the Python module on PLP
